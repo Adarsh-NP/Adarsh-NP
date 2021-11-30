@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Development and ML Projects
 - 🤔 I’m looking for help with ... Docker
 - 💬 Ask me about ... 
-- 📫 How to reach me: ... [LinkedId](https://www.linkedin.com/in/adarsh-narayan-pandey-061302155/), [Email:](adarshnarayan0708@gmail.com)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/adarsh-narayan-pandey-061302155/), [Email](adarshnarayan0708@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Trying to figure it out 
 
