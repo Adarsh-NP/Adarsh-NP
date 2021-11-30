@@ -1,4 +1,4 @@
-### Here is what I am currently exploring 👋
+### Here is what I am currently doing 👋
 
 <!--
 **Adarsh-NP/Adarsh-NP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
