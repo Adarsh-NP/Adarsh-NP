@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on iOS engineering @ Uber 
+- 🔭 I’m currently working as a SWE @ Uber 
 - 🌱 I’m currently learning iOS engineering.
 - 👯 I’m looking to collaborate on Development and ML Projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adarsh-narayan-pandey-061302155/), [Email](adarshnarayan0708@gmail.com)
